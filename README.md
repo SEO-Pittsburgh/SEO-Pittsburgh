@@ -10,7 +10,10 @@
 <p>You can check out my <b><a href="https://www.linkedin.com/in/pittsburghseoservices/" title="Pittsburgh SEO Services" alt="Pittsburgh SEO Services">Pittsburgh SEO</b></a> Linkedin.</p>
 <p>Thank you,</p>
 <p>WW</p>
-<p>
+<p><br>
+  
+  ---
+  
   ### :fire: My Stats :
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SEO-Pittsburgh&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -13,4 +13,4 @@
 <p>
   ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonathanbentz&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SEO-Pittsburgh&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/51162967?v=4" title="Pittsburgh SEO" alt="Pittsburgh SEO" width="50%" height="50%"><br>
+<img src="https://avatars.githubusercontent.com/u/51162967?v=4" title="Pittsburgh SEO" alt="Pittsburgh SEO" width="100" height="100"><br>
 <h1 id="william-wright-seo">William Wright - SEO</h1>
 <p><em>Pittsburgh SEO Expert &amp; Internet Nerd</em></p>
 <p>Hello.</p>
